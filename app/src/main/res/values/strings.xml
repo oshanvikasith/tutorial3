@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">intentsProj</string>
+    <string name="view1">value 1 :</string>
+    <string name="view2">value 2 :</string>
+    <string name="plus"> + </string>
+    <string name="multiply"> * </string>
+    <string name="subtract"> - </string>
+    <string name="divide"> / </string>
+    <string name="submit">Enter</string>
+</resources>
